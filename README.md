@@ -11,7 +11,7 @@
   </a>
   <a href="https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" height="20" alt="Contributions Welcome">
-  </a>
+  </a>  
   <img src="https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square" height="20">
   <a href="https://discord.gg/c7MnfGFGa6">
     <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square" height="20" alt="Discord chat">
@@ -19,7 +19,7 @@
   <a href="https://gitter.im/TheAlgorithms/community">
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
-  <!-- Second row: -->
+  <!-- Second row: -->  
   <br>
   <a href="https://github.com/TheAlgorithms/Python/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/TheAlgorithms/Python/build.yml?branch=master&label=CI&logo=github&style=flat-square" height="20" alt="GitHub Workflow Status">
